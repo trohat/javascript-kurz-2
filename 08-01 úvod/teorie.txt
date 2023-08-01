@@ -1,0 +1,52 @@
+první datový typ:
+number, číslo
+
+příklady: 5, 78, Infinity, NaN
+
+operace: +, -, *, /, **, %
+
+operátor typeof
+
+priorita operátorů (závorky vždy vyhrávají)
+
+druhý datový typ:
+string, řetězec
+
+píše se do uvozovek, jednoduchých nebo dvojitých
+(ještě existuje třetí možnost - backtick - `)
+
+operace: umí se spojovat (concatenation), operátor +
+
+lze escapovat pomocí \
+\n = newline, nový řádek
+\t = tabulátor
+\" = ruší speciální význam uvozovek (takže se například neukončí string)
+\\ = ruší speciální význam \
+
+
+
+proměnné: krabice, do kterých se dají schovávat hodnoty
+
+přiřazovací příkaz
+
+KAM = CO
+cislo = 17
+
+proměnné - pojmenovávat anglicky
+tak aby jméno dávalo smysl (ne boty1, boty2)
+jak s víceslovnými názvy?:
+zimni_boty - snake case, spíše ne (ale je v pořádku)
+zimniBoty - camel case, oblíbená a preferovaná
+ZimniBoty - Pascal case, vyhrazená pro speciální případy
+
+zvětšení o 5:
+cislo = cislo + 5;
+nebo
+cislo += 5;
+
+zvětšení o 1:
+cislo = cislo + 1;
+nebo
+cislo += 1;
+cislo++;
+++cislo;

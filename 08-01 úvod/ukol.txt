@@ -1,0 +1,33 @@
+1.) Spočítejte v konzoli kolik je:
+43 plus 27
+156 minus 93
+56 krát 8
+456 děleno 8
+zbytek po dělení v předchozím příkladu
+3 na pátou
+
+2.) Vytvořte proměnnou libovolného jména
+a uložte do ní výsledek příkladu 56 + 4
+Zvyšte proměnnou o pět (dvěma různými způsoby)
+Vynásobte proměnnou třemi (dvěma různými způsoby)
+Zvyšte proměnnou o jedna (třemi až čtyřmi různými způsoby)
+Snižte proměnnou o jedna (třemi až čtyřmi)
+Vždy si vypisujte mezivýsledky, ať máte jistotu, že počítáte dobře
+
+3.) Vytvořte novou proměnnou a vložte do ní libovolný řetězec. Řetězec 
+bude obsahovat aspoň jedny uvozovky, jedno zpětné lomítko a jeden nový řádek.
+
+4.) Sečtěte proměnnou z bodu tři s jiným řetězcem. Výsledek uložte do nové proměnné.
+
+5.) Sečtěte proměnnou z bodu tři s číslem. Proč se tohle nemá dělat?
+
+6.) K čemu slouží operátor typeof? Použijte ho správně 2x tak, ať pokaždé vrátí jiný výsledek.
+
+7.) Co je to NaN? Jak donutíme JavaScript, aby nám něco takhle vyšlo?
+
+8.) Kolik vyjde "5" + "6"? Zkuste odpovědět bez zkoušení, pak si to vyzkoušejte.
+
+9.) Kolik vyjde 2 + 3 * 7? Jak donutíme JavaScript, aby dal přednost sčítání před násobením?
+
+Pozn. pokud chcete tisknout řetězce do konzole se vším všudy, použijte 
+console.log("řetězec");
