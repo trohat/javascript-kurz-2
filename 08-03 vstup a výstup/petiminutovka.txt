@@ -1,0 +1,31 @@
+1.) Jmenujte nějaké základní operátory pro práci s čísly.
++ - * / % ** ++ -- + -
+
+2.) Jaké znáte datové typy? Jak se na ně můžeme zeptat (jakým operátorem)?
+number, string
+typeof
+
+3.) Co je to NaN? K čemu se používá? (Nebo spíš, kdy vyjde?)
+NaN = not a number (3 * "ahoj")
+
+4.) Kolik vyjde "5" + "7"? Proč?
+57 (jde o spojování řetězců - concatenate)
+
+5.) Co je to \n? Co je to \t?
+nový řádek, tabulátor
+
+6.) Jak dokážu dovnitř do řetězce nacpat uvozovky?
+'Petr říká "ahoj"'
+"Petr říká \"ahoj\""
+
+7.) Co je to modulo? Jak zapíšu 48 modulo devíti a kolik to vyjde?
+zbytek po dělení
+48 % 9
+
+8.) Jaký je naprosto nejrychlejší způsob, když se mi stýská po JavaScriptu
+a chci si v něm napsat a spustit aspoň kousek kódu.
+(Předpoklad: Mám k dispozici průměrně vybavený počítač.)
+dev tools v prohlížeči a otevřít konzoli
+
+9.) Vypočítejte rychle, kolik je 483 krát 52176 (nesmíte používat kalkulačku operačního systému ani mobil)
+25 201 008

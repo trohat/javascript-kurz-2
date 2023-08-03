@@ -1,0 +1,2 @@
+kam napojit JavaScript -
+v HTML těsně před zavírací značku BODY

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>Speciální kód</h1>
+    <h2>Není součástí výuky</h2>
+    <h3>Není nutné snažit se ho pochopit :-)</h3>
+
+    
+    <input type="text" class="jmeno">
+    <input type="text" class="prijmeni">
+    <button class="cti">Přečti</button>
+    <button class="maz">Vymaž</button>
+    <p class="vypis"></p>
+
+    <script>
+        let tlacitkoCti = document.querySelector(".cti");
+        let tlacitkoMaz = document.querySelector(".maz");
+        let jmenoInput = document.querySelector(".jmeno");
+        let prijmeniInput = document.querySelector(".prijmeni");
+        let odstavec = document.querySelector(".vypis");
+
+        jmenoInput.addEventListener("input", function() {
+            odstavec.innerHTML = "Jméno je" + jmenoInput.value;
+            odstavec.innerHTML += "Příjmení je" + prijmeniInput.value;
+        });
+
+        tlacitkoMaz.addEventListener("click", () => odstavec.innerHTML = "");
+
+
+
+
+        `AKAHS
+        ASDCASDAS`
+    </script>
+</body>
+</html>

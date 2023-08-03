@@ -1,0 +1,39 @@
+0.) Jednoduchý úkol na rozehřátí -
+Napište skript, který zobrazí na HTML stránce dva vtipy
+pomocí alert boxů.
+
+1.) Jednoduchá kalkulačka. Uživatel zadá dvě čísla, vy do konzole postupně 
+vypíšete jejich součet, rozdíl, součin a podíl.
+
+2.) Pojďme se zabývat účetnictvím. Uživatel zadá roční příjmy, roční výdaje 
+a daňovou sazbu.
+
+Vypočítejte jaký má zisk a jaké platí daně. Vše vypište do konzole.
+
+Nápověda:
+zisk = příjmy - výdaje
+daně = daňová sazba * zisk 
+(daňová sazba může být zadávána jako 0.15 nebo jako 15 - ve druhém případě 
+musíte ještě výsledek vydělit stem)
+
+Ještě jedna nápověda:
+V HTML souboru můžete vyměnit značku script a spouštět jiný 
+JS soubor.
+-----------------------------------------
+
+
+1.) Napište program, který bude pracovat s nabídkou v restauraci.
+Na začátku bude proměnná vek, kterou přečtete ze vstupu.
+Podle věku program rozhodne, jestli uživateli nabídne pivo nebo 
+limonádu. (Pivo bychom měli nabízet jen uživatelům starším 18 let.)
+
+Poznámka: Pokud si chcete ušetřit trochu práce, nemusíte věk číst ze vstupu. Můžete si ho na začátku porgramu nastavit jako proměnnou přímo v kódu.
+
+2.) Rozšiřte program z bodu 1 o různé druhy nealko nápojů pro různě staré děti
+(např. jiný nápoj pro děti 0-5, jiný pro 5-10 a jiný pro 10-18).
+
+3.) Pro dospělé použijte vniřní podmínku, kde nabídnete různé druhy tvrdého 
+alkoholu. (Nezapomeňte tam nechat to pivo, to si chtějí dát všichni.)
+Např. jiný druh pro lidi 18-30, jiný pro 30-50 a jiný pro 50+.
+
+4.) Spusťte program a otestujte různé vstupy.
