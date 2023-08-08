@@ -1,0 +1,30 @@
+Lehké úkoly: číslo 6, 7 a jedna 
+
+1.) Napište program, který bude pracovat s nabídkou v restauraci.
+Na začátku bude proměnná vek, kterou přečtete ze vstupu.
+Podle věku program rozhodne, jestli uživateli nabídne pivo nebo 
+limonádu. (Pivo bychom měli nabízet jen uživatelům starším 18 let.)
+
+Poznámka: Pokud si chcete ušetřit trochu práce, nemusíte věk číst ze vstupu. Můžete si ho na začátku porgramu nastavit jako proměnnou přímo v kódu.
+
+2.) Rozšiřte program z bodu 1 o různé druhy nealko nápojů pro různě staré děti
+(např. jiný nápoj pro děti 0-5, jiný pro 5-10 a jiný pro 10-18).
+
+3.) Pro dospělé použijte vniřní podmínku, kde nabídnete různé druhy tvrdého 
+alkoholu. (Nezapomeňte tam nechat to pivo, to si chtějí dát všichni.)
+Např. jiný druh pro lidi 18-30, jiný pro 30-50 a jiný pro 50+.
+
+4.) Spusťte program a otestujte různé vstupy.
+
+5.) Program pro kontrolu čísla.
+Uživatel zadá číslo z klávesnice. Vyhovují nám jen čísla mez deseti a dvaceti,
+nebo čísla mezi čtyřiceti a padesáti. Zkontrolujte, zda se zadané číslo nachází
+v povolených mezích a dejte to uživateli vědět.
+
+Lehké příklady na procvičení:
+6.) Čekáte na Jakuba. Přijde uživatel. Zeptejte se ho, jak se jmenuje.
+Pokud je to Jakub, pozvěte ho dál. Pokud ne, pošlete ho pryč.
+
+7.) Zeptáte se uživatele, jestli má rád červené víno. Pokud ano, 
+nabídněte mu to nejlepší červené víno, co máte.
+Pokud ne, nabídněte mu tu nejhorší víno z krabice.
