@@ -17,9 +17,9 @@ Např. jiný druh pro lidi 18-30, jiný pro 30-50 a jiný pro 50+.
 4.) Spusťte program a otestujte různé vstupy.
 
 5.) Program pro kontrolu čísla.
-Uživatel zadá číslo z klávesnice. Vyhovují nám jen čísla mez deseti a dvaceti,
+Uživatel zadá číslo z klávesnice. Vyhovují nám jen čísla mezi deseti a dvaceti,
 nebo čísla mezi čtyřiceti a padesáti. Zkontrolujte, zda se zadané číslo nachází
-v povolených mezích a dejte to uživateli vědět.
+v povolených mezích Pokuda dejte to uživateli vědět.
 
 Lehké příklady na procvičení:
 6.) Čekáte na Jakuba. Přijde uživatel. Zeptejte se ho, jak se jmenuje.

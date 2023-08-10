@@ -1,0 +1,24 @@
+Poznámka: Všechny úkoly řešte pomocí cyklu FOR
+
+1. Napište cyklus, který vypíše 7x ahoj 
+(v kódu je povoleno pouze jedno použití funkce console.log)
+
+2. Napište cyklus, který vypíše čísla od 1 do 10
+
+3. Napište cyklus, který vypíše čísla od 5 do 15
+
+4. Napište cyklus, který vypíše všechna čísla od 1 do 20, ale skáče po dvou
+
+5. Napište cyklus, který vypíše čísla od 10 do 1, pozpátku
+
+6. Vratťe se na začátek a vyřešte vše pomocí cyklu WHILE
+
+7. Můžete si o cyklech přečíst více, v teamsech máte k dispozici materiály, 
+nebo také na w3schools (např. přeskočil jsem cyklus DO ... WHILE ... je podobný
+cyklu WHILE, podrobnosti si můžete nastudovat)
+
+8. Cvičení v Teamsech jsou nahrána v záložce s datem úterní hodiny (08-08).
+Jedná se Practicum Modul 1 Week 3 
+a o HT Modul 1 Week 3
+(prostě cokoliv co má week 3 v názvu)
+Místo alertů prosím používejte console.log! Děkuji :)

@@ -1,0 +1,18 @@
+Cykly, nebo také smyčky
+
+Anglicky loops
+
+pro opakování stejných činností
+
+JavaScript jich má hodně
+
+nejoblíbenější je for-cyklus
+
+případně while cyklus
+do-while
+
+pokročilé: for-in, for-of
+
+
+
+

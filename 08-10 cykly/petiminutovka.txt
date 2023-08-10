@@ -1,0 +1,19 @@
+1.)
+Vytvořte HTML stránku a propojte do ní JavaSript
+
+Pokračujte v JavaScriptovém souboru:
+2.) vypište jednoduchou zprávu do konzole
+
+3.) vytvořte proměnnou a uložte do ní hodnotu 5
+
+4.) vypište do konzole její datový typ
+
+5.) třikrát jí zvyšte o jedna (včetně uložení), pokaždé jiným zápisem 
+
+6.) na konec ji vypište do konzole
+
+BONUS
+7.) Vytvořte jednoduchou podmínku
+Pokud je vaše proměnná větší než 8, vypište do konzole ano. 
+Jinak vypište ne.
+
