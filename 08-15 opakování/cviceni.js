@@ -37,10 +37,12 @@ for (let i = 0; i < prvni; i++) {
 console.log(vysledek);
 */
 // ---------------------------------------------------------
+/*
 let prvni = 36;
 let druhe = 24;
 
 let jesteSmeNicNenasli = true;
+
 
 for (let delitel = 2; delitel <= prvni; delitel++) {
     if ((prvni % delitel === 0) && (druhe % delitel === 0)) {
@@ -52,7 +54,23 @@ for (let delitel = 2; delitel <= prvni; delitel++) {
 if (jesteSmeNicNenasli) {
     console.log("Společný dělitel neexistuje.");
 }
+*/
 
+let prvni = 36;
+let druhe = 24;
 
+let vysledek = "";
+
+for (let delitel = 2; delitel <= prvni; delitel++) {
+    if ((prvni % delitel === 0) && (druhe % delitel === 0)) {
+         vysledek += "Společný dělitel je " + delitel + ".\n";
+    }
+}
+
+if (vysledek === "") {
+     vysledek = "Společný dělitel neexistuje.";
+}
+
+alert(vysledek);
 
 
