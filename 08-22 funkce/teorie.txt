@@ -1,0 +1,9 @@
+tři způsoby jak zapisovat funkce:
+
+1.) function declaration
+2.) function expression
+
+ES2015 --- ES6
+
+3.) arrow function (pracují jinak se THIS)
+
