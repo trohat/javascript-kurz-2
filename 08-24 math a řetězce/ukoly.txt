@@ -1,0 +1,90 @@
+Pokud dokážete vyřešit příklady ze všech čtyř sekcí, zvládli jste JavaScript a můžeme přejít 
+do další části kurzu.
+
+Sekce A - počítání a funkce
+
+1.) Napiš funkci pro výpočet obvodu obdélníka.
+Funkce bere dva parametry, stranu a a stranu b.
+
+2.) Napiš funkci, která vypočítá obsah kruhu. Vzoreček si dokážeš vygooglit.
+Kolik bere funkce parametrů?
+Možná se ti bude hodit něco z modulu Math.
+
+3.) Napiš funkci, která simuluje metodu Math.max() pro dva parametry.
+(Tj. metodu Math.max() nesmíš používat.)
+Pro jistotu: Funkce bere jako parametry dvě čísla a vrátí větší z nich.
+
+4.) Napiš funkci, která vezme tři čísla a vypočítá jejich průměr.
+
+5.) Volitelný příklad, pokud ještě potřebujete procvičovat:
+Napiš funkci, která vezme dvě čísla, a rozhodne, jestli jsou stejná.
+(Oznámí "jsou stejná" nebo "každé je jiné").
+
+-------------------------------------------------
+
+Sekce B - hraní si s řetězci 
+
+pozn. úkoly na sebe navazují
+mezivýledky si vypisujte do konzole kvůli kontrole (viz úkol 6)
+
+1.) Vezmi řetězec "    Radegast je moje nejoblíbenější pivo    " a ulož si ho do stringu.
+(Můžeš ho odsud překopírovat.)
+
+2.) Osekej přebytečné mezery. (Po každém kroku ověř, že řetězec obsahuje, to co má.)
+
+3.) Ověř, že řetězec začíná slovem Radegast.
+
+4.) Převeď řetězec na velká písmena.
+
+5.) Nahraď slovo Radegast svým oblíbeným pivem.
+
+6.) Nezapomeň průběžně ověřovat, že řetězec obsahuje to, co má.
+
+7.) Jak je výsledný řetězec dlouhý? Vypiš jeho délku do konzole.
+
+8.) Najděte v dokumentaci nějakou zajímavou metodu pro práci se stringy, 
+kterou jsme nebrali.
+
+----------------------------
+
+Sekce C - funkce - těžší
+
+1.) Napiš funkci, která vezme dvě čísla, a vypíše všechna čísla mezi nimi.
+Příklad: 
+(2, 6) => 2,3,4,5,6
+(3, 4) => 3,4
+Poznámka: Ačkoliv je obvykle lepší používat ve funkci return, tady to nedává moc smysl.
+Můžete použít console.log.
+
+2.) Vylepši funkci z bodu 1. o kontrolu, které z čísel je větší (tj. můžu je zadat 
+v opačném pořadí)
+
+----------------------------
+
+Sekce D - pole a funkce
+
+1.) Připrav si pole, kde je několik tvých oblíbených předmětů.
+Zkus v něm najít předmět "plyšový medvídek". 
+Zkus to udělat třemi způsoby - jednou chceš zjistit index prvku, jednou ti stačí true/false,
+jednou hledáš odzadu.
+
+2.) Těžší.
+Napiš funkci, která vezme pole čísel a vrátí jiné pole, 
+kde jsou ta samá čísla, ale zvětšená o 10.
+Funkci pořádně otestuj.
+
+Těžší
+3.) Napiš funkci, která vezme pole čísel a vrátí z něj nové pole, 
+ve kterém jsou ponechaná
+jen čísla větší než 5.
+
+4.) Těžší.
+Napiš funkci, která bere pole čísel a čísla sečte.
+Např. [7, 8, 3, 5, 4, 6] => 33
+
+5.) Těžké.
+JavaScript nemá metodu nad polem pro počítání výskytu prvku v poli. Zkus nějakou vytvořit.
+Podrobnější vysvětlení: Metoda bere dva parametry, pole a prvek, který chceme spočítat.
+Vrátí číslo, což je počet výskytů daného prvku v poli.
+
+6.) Udělej úkoly 2,3 a 4 pomocí funkcí vyššího řádu (tj. map, filter nebo reduce).

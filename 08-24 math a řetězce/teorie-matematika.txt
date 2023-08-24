@@ -1,0 +1,22 @@
+Zajímavé funkce z modulu matematika:
+
+Math.sqrt() - odmocnina
+
+Math.sin() - sinus
+(další goniometrické funce si jistě dokážete najíd sami na MDN)
+
+Math.random()
+
+Math.round() - zaokrouhlování
+Math.floor()
+Math.ceil()
+
+Math.min()
+Math.max()
+
+
+konstanty (píšou se velkými písmeny)
+Math.E
+Math.PI 
+
+další funkce a konstanty si dokážete najít sami :)

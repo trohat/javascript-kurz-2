@@ -1,0 +1,20 @@
+Metody na stringu:
+(pozor, v dokumentaci jsou uvedné s klíčovým slovem prototype)
+
+toUpperCase()
+toLowerCase()
+
+repeat()
+
+trim()
+trimStart()
+trimEnd()
+
+startsWith()
+endsWith()
+
+indexOf()
+replace()
+
+length --- bez závorek!!!
+
