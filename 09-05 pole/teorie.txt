@@ -1,0 +1,9 @@
+metody na poli:
+
+push
+pop  
+
+shift
+unshift
+
+length (není metoda, tj. volá se bez závorek)

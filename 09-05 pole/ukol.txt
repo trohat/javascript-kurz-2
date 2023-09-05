@@ -1,0 +1,47 @@
+1.) Vytvoř pole, kde budou jména tvých pěti oblíbených předmětů. (Pod slovem
+ předměty myslím věci. Někdo to chápe jako předměty ve škole, což je taky možnost,
+ale nemyslel jsem to tak.)
+
+2.) Vypiš (třeba do konzole) první předmět.
+
+3.) Vypiš třetí předmět.
+
+4.) Vypiš poslední předmět.
+
+5.) Přidej do pole ještě jeden oblíbený předmět.
+
+6.) Dostal jsi k Vánocům naprosto skvělý dárek. Přidej ho do pole.
+Ale je tak skvělý, že půjde na začátek.
+
+7.) Vypiš délku pole.
+
+8.) Už je těch oblíbených předmětů moc, dej pryč ten poslední.
+
+9.) Ukázalo se, že ten dárek k Vánocům byla pěkná blbost. Dej ho z pole pryč.
+
+10.) Projdi pole cyklem a vypiš všechny předměty.
+
+11.) Vytvoř pole, kde budou ceny chleba za každý den v uplynulém týdnu.
+
+12.) Vezmi pole z minulého úkolu a vypiš ceny pro všechny dny.
+
+13.) Jejda. Zapomněli jsme na daň. Vypiš ceny chleba pro všechny dny, 
+ale předtím ke každé připočti patnáctiprocentní daň.
+
+14.) Vytvoř pole, kde budou tato čísla: 55, 65, 105, 35, 125, 15, 205.
+
+15.) Projdi pole z úkolu 14 cyklem a vypiš jen hodnoty, které jsou menší než 100.
+
+16.) To by nebyly pořádné úkoly, kdyby tady nebylo něco na googlení.
+Zkus najít, jestli existuje nějaká metoda pro vyhledávání v poli (např.
+chceš zjistit, jestli pole z úkolu jedna obsahuje předmět "plyšový medvěd"
+a pokud ano, na kterém indexu se nachází).
+
+17.) Zkus zjistit, jestli existuje metoda, která umožní vzít z pole všechny 
+prvky, od druhého po pátý. Uplatni ji na pole, kde jsou uloženy ceny chleba.
+(Tím by mělo vzniknout kratší pole, které obsahuje jen ceny od druhého po pátý den.)
+
+18.) Zkus si přečíst kus z dokumentace o metodě push.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+Dává ti to smysl? Dávají smysl příklady zde uvedené? Zapamatuj si aspoň jednu věc,
+kterou jsem při výkladu nezmiňoval.
