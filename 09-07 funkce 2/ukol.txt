@@ -1,0 +1,28 @@
+Sekce D - pole a funkce
+
+1.) Připrav si pole, kde je několik tvých oblíbených předmětů.
+Zkus v něm najít předmět "plyšový medvídek". 
+Zkus to udělat třemi způsoby - jednou chceš zjistit index prvku, jednou ti stačí true/false,
+jednou hledáš odzadu.
+Pozn. metody na tohle jsme nedělali, buď to přeskočte nebo si je zkuste najít.
+
+2.) Těžší.
+Napiš funkci, která vezme pole čísel a vrátí jiné pole, 
+kde jsou ta samá čísla, ale zvětšená o 10.
+Funkci pořádně otestuj.
+
+Těžší
+3.) Napiš funkci, která vezme pole čísel a vrátí z něj nové pole, 
+ve kterém jsou ponechaná
+jen čísla větší než 5.
+
+4.) Těžší.
+Napiš funkci, která bere pole čísel a čísla sečte.
+Např. [7, 8, 3, 5, 4, 6] => 33
+
+5.) Těžké.
+JavaScript nemá metodu nad polem pro počítání výskytu prvku v poli. Zkus nějakou vytvořit.
+Podrobnější vysvětlení: Metoda bere dva parametry, pole a prvek, který chceme spočítat.
+Vrátí číslo, což je počet výskytů daného prvku v poli.
+
+6.) Udělej úkoly 2,3 a 4 pomocí funkcí vyššího řádu (tj. map, filter nebo reduce).
