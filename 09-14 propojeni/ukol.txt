@@ -1,0 +1,37 @@
+1.) Vytvořte si HTML stránku, kde bude aspoň jeden nadpis a 
+několik odstavců. Může tam být i tlačítko.
+
+2.) Tlačítku přidejte atribut onclick. Při kliknutí na tlačítko
+se zobrazí zpráva s pozdravem.
+
+3.) Nadpisu přidejte id atribut, některým (ne všem) odstavcům přidejte třídy.
+
+4.) Zkuste vybírat prvky na stránce a měnit jejich text:
+a) vyberte nadpis a změňte text v něm.
+b) vyberte druhý z odstavců a změňte text v něm.
+
+5.) Vyberte poslední z odstavců (můžete mu pro vaše potřeby přidat třídu
+nebo id).
+
+6.) Nastavte mu barvu, rámeček, paddingy. Dále barvu pozadí, velikost fontu,
+a styl fontu (kurzívu).
+
+----------
+
+7.) Pokročilé:
+Zkuste prvky vybírat různými způsoby:
+a) pomocí selektorů
+b) pomocí typu prvku, pomocí třídy, pomocí id
+c) pomocí procházení stromu - můžete začít na document.body a pak používat
+metody childNodes, firstChild, lastChild, previousSibling, nextSibling atd.
+
+8.) Zkuste některé prvky z DOMu odstranit.
+
+9.) Metoda replaceChild je poměrně specifická. Zkuste ji použít. Nahraďte jeden
+prvek v DOMu jiným. (Zkuste si najít v dokumentaci, jak se přesně používá.)
+
+10.) BONUS
+Napište funkci, která něco dělá (např. vypíše něco do konzole). Pokud do teď nemáte
+připojený JS soubor, tak si ho připojte a funkci napište v něm.
+Zkuste ji pomocí atributu onclick připojit na tlačítko. (Tj. když kliknu na tlačítko,
+funkce se spustí a v konzoli se objeví text).
