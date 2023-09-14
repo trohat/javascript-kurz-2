@@ -1,5 +1,5 @@
 1.) Vytvořte si HTML stránku, kde bude aspoň jeden nadpis a 
-několik odstavců. Může tam být i tlačítko.
+několik odstavců a tlačítko.
 
 2.) Tlačítku přidejte atribut onclick. Při kliknutí na tlačítko
 se zobrazí zpráva s pozdravem.
@@ -23,11 +23,12 @@ Zkuste prvky vybírat různými způsoby:
 a) pomocí selektorů
 b) pomocí typu prvku, pomocí třídy, pomocí id
 c) pomocí procházení stromu - můžete začít na document.body a pak používat
-metody childNodes, firstChild, lastChild, previousSibling, nextSibling atd.
+metody childNodes (nebo možná raději children), firstElementChild, lastElementChild, 
+previousElementSibling, nextElementSibling atd.
 
-8.) Zkuste některé prvky z DOMu odstranit.
+8.) Zkuste některé prvky z DOMu odstranit (nápověda: remove).
 
-9.) Metoda replaceChild je poměrně specifická. Zkuste ji použít. Nahraďte jeden
+9.) Zajímavá je metoda replaceWith. Zkuste ji použít. Nahraďte jeden
 prvek v DOMu jiným. (Zkuste si najít v dokumentaci, jak se přesně používá.)
 
 10.) BONUS
