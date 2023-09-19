@@ -1,0 +1,14 @@
+1.) Udělejte si jednoduchou HTML stránku, na které bude:
+h1, h2, dva odstavce a tlačítko.
+
+2.) Po stisku tlačítka se vypíše něco do konzole.
+
+3.) Po přejetí myší na H1 se h1 přebarví na červeno. 
+Po odjetí myši se H1 změní zpět.
+
+4.) Po kliku na H2 se první odstavec přebarví na modro.
+
+5.) Zkuste události připojovat různými způsoby -
+pomocí addEventListener, i pomocí atributů nebo vlastností
+
+6.) Další úkoly doporučuji na javascript.info. Jsou tam pěkné.
