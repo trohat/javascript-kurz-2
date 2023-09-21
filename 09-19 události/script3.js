@@ -3,8 +3,6 @@
 function handleMouseEnter() {
     const h1Elem = document.querySelector("h1");
 
-    debugger;
-
     h1Elem.style.backgroundColor = "purple";
     h1Elem.style.color = "red";
     // konec funkce = proměnné zmizí, protože jsou lokální
@@ -17,7 +15,7 @@ function handleMouseLeave() {
     h1.style.color = "";
 }
 
-const ulElem = document.querySelector("ul");
+const ulElem = document.querySelector("h1");
 
 ulElem.addEventListener("mouseenter", handleMouseEnter);
 

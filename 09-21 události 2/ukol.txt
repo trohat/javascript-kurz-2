@@ -1,0 +1,44 @@
+1.) Vytvořte HTML stránku s nadpisem, odstavcem a tlačítkem. Připojte k ní JavaScript.
+
+2.) K nadpisu připojte posluchač události, který reaguje na dvojklik (pokud se vám nechce
+googlit, použijte místo dvojkliku nějakou udáslot, kterou už znáte). Posluchač události 
+bere jeden parametr (pojmenujte ho event). Vypište hodnotu tohoto parametru do konzole,
+rozklikněte ji a pořádně si ji prohlédněte.
+
+3.) Nevypisujte událost celou, vypište z ní jen nějaké specifické vlastnosti.
+Třeba pageX, pageY, target a currentTarget. Zatím stačí do konzole.
+
+4.) Při kliku na tlačítko (jakýmkoliv myšítkem) vypište 
+do odstavce (teď už tedy do HTML), že bylo kliknuto na tlačítko,
+a na které tlačítko bylo kliknuto.
+(Nápověda: událost CLICK na tohle nestačí - ta sbírá jen kliky z levého myšítka).
+
+5.) Přidělejte ještě jedno tlačítko, které zapíná dark mode. Pohrajte si s barevností prvků,
+např. odstavec i nadpis budou jinak barevné (a změny se projeví i v dark modu).
+
+-------------------------------
+Pokročilé úkoly, které vám pomohou na příští hodinu:
+6.) Zkuste nějak reagovat na klávesy. Co kdyby třeba klávesa O spouštěla oranžovou barvu pozadí,
+klávesa F fialovou a klávesa M modrou. Klávesa R by to mohla vyresetovat.
+
+
+-------------------------------
+Doporučené materiály ke studiu:
+Poznámka: I ostatní texty jsou fajn, tady je jen výběr toho, co se přímo dotýká probírané látky.
+Na konci většiny textů jsou zajímavá cvičení (obvykle bývají těžší než ty z hodiny), můžete si je 
+zkusit naprogramovat.
+
+Události:
+https://javascript.info/introduction-browser-events 
+
+Události myši:
+https://javascript.info/mouse-events-basics
+
+Události klávesnice:
+https://javascript.info/keyboard-events
+
+Ke starší látce: 
+https://javascript.info/searching-elements-dom (querySelector a kamarádi)
+
+Ke třídám a stylům:
+https://javascript.info/styles-and-classes
