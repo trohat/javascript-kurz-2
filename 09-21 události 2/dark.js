@@ -12,3 +12,4 @@ darkTlacitko.addEventListener("click", function() {
 });
 
 //ještě existuje ... classList.add a ... classList.remove na přidávání a odebírání tříd
+

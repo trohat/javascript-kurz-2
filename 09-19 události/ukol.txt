@@ -10,5 +10,7 @@ Po odjetí myši se H1 změní zpět.
 
 5.) Zkuste události připojovat různými způsoby -
 pomocí addEventListener, i pomocí atributů nebo vlastností
+(tohle je jen trénink, od příště stačí používat addEventListener)
 
 6.) Další úkoly doporučuji na javascript.info. Jsou tam pěkné.
+https://javascript.info/introduction-browser-events

@@ -1,0 +1,14 @@
+Tentokrát vás navedu přímo na stránku javascript.info
+
+Ve většině článků jsou na konci úkoly. 
+(Jsou tam i řešení, ale zkuste na ně zkraje nekoukat.)
+
+Vyberte si nějaký pod články o událostech.
+(Sekce "Browser: Document, Events, Interfaces"
+a druhá podsekce "Introduction to Events"
+nebo třetí podsekce "UI Events").
+
+Doporučuji třeba Selectable list v článku Mouse events
+(https://javascript.info/mouse-events-basics)
+
+

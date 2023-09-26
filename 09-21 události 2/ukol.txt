@@ -17,7 +17,7 @@ a na které tlačítko bylo kliknuto.
 např. odstavec i nadpis budou jinak barevné (a změny se projeví i v dark modu).
 
 -------------------------------
-Pokročilé úkoly, které vám pomohou na příští hodinu:
+Pokročilé nepovinné úkoly, které vám pomohou na příští hodinu:
 6.) Zkuste nějak reagovat na klávesy. Co kdyby třeba klávesa O spouštěla oranžovou barvu pozadí,
 klávesa F fialovou a klávesa M modrou. Klávesa R by to mohla vyresetovat.
 
