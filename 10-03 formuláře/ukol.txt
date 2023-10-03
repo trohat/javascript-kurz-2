@@ -1,0 +1,24 @@
+Předpoklad: na každý úkol potřebujete HTML i JS soubor.
+
+1.) Vytvoř textový input. Jakýkoliv text, co do něj někdo napíše, se objeví i v konzoli.
+
+2.) Vytvoř textový input s divem pod ním.
+Jakýkoliv text, co se objeví v textovém inputu, se objeví i v divu pod ním.
+
+Doplňující otázka: V čem bude jiné, když v příkladech jedna a dva použiji
+událost input nebo událost change?
+
+3.) Vytvoř políčko pro hru "jméno-město-rostlina-zvíře". Budeme do něj vyplňovat
+zvíře začínající na P. Pokud při opuštění políčka obsah políčka nezačíná na P,
+obarvi políčko nějakou výraznou barvou a vypiš pod políčko chybu. Chybovou hlášku
+hezky ostyluj. (Při návratu do políčka může obarvení i chybová hláška zmizet.)
+
+Pro pokročilé: Pokud ti tyto úkoly přijdou moc lehké, zkus si je udělat stejně, ale 
+s jinou syntaxí. Můžeš místo funkcí definovaných inline použít funkce, které uložíš 
+do proměnné a pak použiješ ty proměnné. Můžeš použít arrow funkce. 
+Místo metody addEventListener můžeš použít připojování událostí pomocí DOM vlastností.
+(To je třeba "divElement.onclick = function ...").
+
+Pokud by ti to i tak přišlo moc lehké, na javascript.info jsou těžší úkoly.
+
+

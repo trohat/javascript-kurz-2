@@ -1,0 +1,10 @@
+základní události pro formuláře:
+
+change - reaguje na ukončení editace políčka
+input - reaguje na změnu v políčku
+
+copy/paste/cut - další události, význam je jasný
+
+focus - políčko získalo focus
+blur - opuštění políčka
+

@@ -1,0 +1,10 @@
+.zvyraznene {
+    outline: 0px;
+    border: 4px solid red;
+    background-color: indianred;
+}
+
+.chyba {
+    border: 2px solid red;
+    /*background-color: blue;*/
+}
