@@ -1,0 +1,15 @@
+.obdelnik {
+    width: 400px;
+    height: 100px;
+    border: 2px ridge orange;
+    background-color: chartreuse;
+}
+
+div.cerveny {
+    background-color: red;
+}
+
+div.modry {
+    background-color: blue;
+}
+

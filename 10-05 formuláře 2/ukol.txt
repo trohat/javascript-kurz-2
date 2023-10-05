@@ -1,0 +1,18 @@
+Můžeš psát kod do funkcí nebo můžeš funkce tentokrát vynechat,
+podle toho, na co se cítíš.
+
+Vytvoř HTML dokument, ve kterém bude jen <body>.
+
+Pomocí JS vytvoř div a přidej ho do HTML dokumentu. Div bude mít třídu
+(vymysli si jméno třídy) a bude v něm nějaký text.
+Pomocí CSS stylů udělej divu rámeček a rozměry (využij dříve vytvořenou
+CSS třídu).
+
+Pomocí JS vytvoř odstavec, dej do něj nějaký text a přidej ho na konec divu.
+
+Pomocí JS vytvoř list (ul nebo ol), přilep ho na konec dokumentu. Vytvoř pár 
+položek do listu a všechny přilep dovnitř listu. (Vymysli si nějaké téma,
+například tvoje oblíbené filmy nebo oblíbená jídla.)
+
+
+
