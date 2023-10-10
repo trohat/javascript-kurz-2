@@ -7,14 +7,16 @@
 .druhe,
 .vysledek {
     height: 20px;
-    width: 40px;
+    width: 80px;
     text-align: center;
 }
 
 .vysledek {
     height: 25px;
+    width: 80px;
     border-radius: 3px;
     border: 1px solid black;
+    overflow: hidden;
 }
 
 .priklad {
@@ -26,4 +28,10 @@
 
 .pridej {
     margin-top: 20px;
+}
+
+.chyba {
+    color: red;
+    font-style: italic;
+    font-size: 10px;
 }

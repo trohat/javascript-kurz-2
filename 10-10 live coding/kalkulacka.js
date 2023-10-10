@@ -1,15 +1,20 @@
 function vypocitej(event) {
     const priklad = event.currentTarget.closest(".priklad");
+    priklad.nextElementSibling.textContent = "";
     const prvniInput = priklad.querySelector(".prvni");
     const select = priklad.querySelector(".znamenko");
     const druhyInput = priklad.querySelector(".druhe");
     const divProVysledek = priklad.querySelector(".vysledek");
     const cislo1 = Number(prvniInput.value);
     if (Number.isNaN(cislo1)) {
+        divProVysledek.textContent = "";
+        priklad.nextElementSibling.textContent = "V políčku jedna není číslo.";
         return;
     }
     const cislo2 = Number(druhyInput.value);
     if (Number.isNaN(cislo2)) {
+        divProVysledek.textContent = "";
+        priklad.nextElementSibling.textContent = "V políčku dva není číslo.";
         return;
     }
     const operace = select.value;
@@ -23,9 +28,13 @@ function vypocitej(event) {
     } else if (operace === "deleno") {
         if (cislo2 === 0) {
             divProVysledek.textContent = "";
+            priklad.nextElementSibling.textContent = "Nulou nelze dělit.";
             return;
         }
         vysledek = cislo1 / cislo2;
+        vysledek *= 100;
+        vysledek = Math.round(vysledek);
+        vysledek /= 100;
     } else {
         return;
     }
@@ -102,6 +111,9 @@ function pridejPriklad() {
 
     const main = document.querySelector("main");
     main.append(priklad);
+
+    const chybovyDiv = vyrobDiv("chyba", "");
+    priklad.after(chybovyDiv);
 }
 
 const tlacitkoPridej = document.querySelector(".pridej");
