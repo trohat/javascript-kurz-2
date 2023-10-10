@@ -1,0 +1,29 @@
+.rovnase,
+.vysledek {
+    display: inline-block;
+}
+
+.prvni,
+.druhe,
+.vysledek {
+    height: 20px;
+    width: 40px;
+    text-align: center;
+}
+
+.vysledek {
+    height: 25px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+.priklad {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.pridej {
+    margin-top: 20px;
+}
