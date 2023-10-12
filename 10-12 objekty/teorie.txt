@@ -1,0 +1,41 @@
+Téma:
+
+Objekty, aneb co znamená ta záhadná tečka
+
+Datové typy:
+string, number, boolean, null, undefined, array, symbol, object
+
+jak přistupovat do objektu:
+a) tečková notace
+pes.rasa
+
+b) závorková notace
+pes["delka srsti"]
+pes["rasa"]
+
+postup do hloubky:
+jinePole[0].kamaradi[1].jmeno
+jinePole[0].kamaradi[1]["delka srsti"]
+
+
+jak iterovat objektem:
+Object.keys(pes)
+Object.values(pes)
+Object.entries(pes)
+
+!!!!fakt pokročilé věci:
+
+nové cykly:
+for ... in (iteruje přes klíče)
+for ... of (iteruje přes hodnoty)
+
+!!!tohle už fakt neřešte :)
+optional chaining: jinePole[7]?.majitel?.jmeno
+dříve se to dělalo takto:
+jinePole[7] && jinePole[7].majitel && jinePole[7].majitel.jmeno
+
+existence klíče:
+"velikost" in pes
+pes.velikost !== undefined
+
+

@@ -1,0 +1,42 @@
+1.) Vytvořte objekt pes. Pes má jméno, barvu, 
+délku srsti a rasu.
+
+2.) Vypište jméno psa.
+
+3.) Vypište barvu psa.
+
+4.) Vypište délku srsti.
+
+5.) Jaký typ klíče používáte na délku srsti? Pokud 
+zatím neobsahuje mezeru tak ji tam přidejte.
+Co se změnilo když klíč obsahuje mezeru?
+Jak s ním pak budete pracovat?
+
+6.) Přidejte psovi novou vlastnost. Bude to jeho výška.
+
+7.) Přidejte ještě jednu vlastnost. Bude to znak, jestli kouše,
+hodnota bude typu boolean.
+
+8.) Vytvořte druhého a třetího psa, se stejnými vlastnostmi (ale 
+jinými hodnotami) jako má první pes.
+
+9.) Uložte všechny tři psy do pole. 
+
+10.) Vypište (přes pole, ve kterém jsou psi uloženi) jméno druhého psa 
+a délku srsti třetího psa.
+
+11.) Na prvním psovi vytvořte vlastnost kamarádi a přidejte do ní 
+druhého a třetího psa.
+
+12.) Zkuste vypsat kamarády prvního psa.
+
+13.) Přes proměnnou, ve které je uložený první pes, vypište barvu druhého psa
+a rasu třetího psa.
+
+--- Pokročilé ---
+14.) Zkuste vypsat jména všech klíčů prvního psa (jako pole).
+
+15.) Zkuste vypsat jména všech hodnot prvního psa (jako pole).
+
+16.) Zkuste vypsat (jako dvouprvková pole ve větším poli) dvojice
+všech klíčů a hodnot prvního psa.
