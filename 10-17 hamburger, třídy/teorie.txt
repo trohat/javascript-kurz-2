@@ -1,0 +1,5 @@
+
+OOP = objektově orientované programování
+
+objektové programování se dá dělat různě, JavaScript ho dělá skrz prototypy
+hodně jazyků ale místo prototypů používá třídy
