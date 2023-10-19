@@ -1,0 +1,25 @@
+.galerie > div {
+    display: flex;
+    gap: 5px;
+}
+
+.galerie > img {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 15px 10px 8px 0px #AAAAAA;
+    cursor: pointer;
+}
+
+.galerie > div > img {
+    border: 1px solid black;
+    border-radius: 2px;
+    box-shadow: 5px 3px 5px 0px #AAAAAA;
+    cursor: pointer;
+    
+}
+
+.galerie > div > img:hover{
+    filter: brightness(.7);
+}
+
